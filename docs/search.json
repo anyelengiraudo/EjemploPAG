@@ -6,7 +6,21 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-10-03T18:14:03-03:00"
+      "last_modified": "2023-10-03T18:49:21-03:00"
+    },
+    {
+      "path": "DesarrolloTrabajo.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nAca comienzo a generar el trabajo practico\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-10-03T18:49:22-03:00"
     },
     {
       "path": "index.html",
@@ -14,7 +28,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-10-03T18:14:04-03:00"
+      "last_modified": "2023-10-03T18:49:23-03:00"
     }
   ],
   "collections": []
